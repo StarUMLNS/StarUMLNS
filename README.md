@@ -18,3 +18,7 @@ The license type of StarUML NS is “Dual License”.
 It divided into two choices; the Community Edition open to public as open source, and the Enterprise Edition can be sold at.
 
 Address : http://www.staruml.net/
+
+To download StarUML NS file at your side, users click the below link address in the current webpages, once the step completed, and the page will be redirected to the sourceforge page. 
+
+Download : https://sourceforge.net/projects/starumlns/files/?source=navbar
