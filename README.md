@@ -18,6 +18,7 @@ StarUML NS의 라이선스는 Dual License입니다.
 오픈 소스로 공개되는 Community Edition과 판매되는 Enterprise Edition으로 나누어집니다.
 
 주소 : http://www.staruml.net/
+다운로드 : http://www.staruml.net/starplatform/download/a/m/download.do#
 
 ===================================================================================
 As a newly launched project, StarUML NS has been mainly driven by developers who had created the earlier versions of StarUML.
@@ -37,3 +38,4 @@ The license type of StarUML NS is “Dual License”.
 It divided into two choices; the Community Edition open to public as open source, and the Enterprise Edition can be sold at.
 
 Address : http://www.staruml.net/
+Download : http://www.staruml.net/starplatform/download/a/m/download.do#
